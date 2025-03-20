@@ -1,2 +1,5 @@
 # Ignore the books directory and all its content
 /books/
+
+# Ignore Python cache files
+__pycache__/
